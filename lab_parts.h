@@ -7,6 +7,7 @@
 #include <iostream>
 #include <ostream>
 
+
 inline void task1() {
     double a;
     std::println(std::cout, "How much cm?: ");
